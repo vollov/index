@@ -1,4 +1,4 @@
-#Projects Index
+#Repository Index
 
 This file lists the index for all repositories
 
@@ -12,3 +12,6 @@ install bouncy as a ubuntu deamon
 ##[3] file-server
 simple cloud server for manage files.
 Technology: expressjs, jade, grunt,yoeman
+
+##[4] theme
+The folder to store all project themes
