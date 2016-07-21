@@ -22,3 +22,6 @@ node restful server with mongodb
 ##[6] backbone-twit-client
 client app consume nosql-rest-node-server
 
+##[7] beryl
+The template node application with angularjs authentication
+
