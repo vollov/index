@@ -27,3 +27,11 @@ The template node application with angularjs authentication
 
 ##[8] metapod
 vue sample application
+
+##[9] Prototype for Django session based REST backend
+backend code: - https://github.com/vollov/voltorb
+frontend code: - https://github.com/vollov/litwick
+
+##[10] Prototype for Node token based Rest authentication
+frontend code: - https://github.com/vollov/horsea
+backend code: - https://github.com/vollov/lampent
