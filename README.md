@@ -25,3 +25,5 @@ client app consume nosql-rest-node-server
 ##[7] beryl
 The template node application with angularjs authentication
 
+##[8] metapod
+vue sample application
