@@ -35,3 +35,6 @@ frontend code: - https://github.com/vollov/litwick
 ##[10] Prototype for Node token based Rest authentication
 frontend code: - https://github.com/vollov/horsea
 backend code: - https://github.com/vollov/lampent
+
+##[11] eve
+vue 2 template and labs
